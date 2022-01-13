@@ -1,1 +1,1 @@
-![Image](Screen Shot 2022-01-13 at 9.34.19 AM.png)
+![Image](/Users/choi/Documents/GitHub/cse15l-lab-reports/Screen Shot 2022-01-13 at 9.34.19 AM.png)
