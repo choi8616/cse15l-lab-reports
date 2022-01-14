@@ -6,4 +6,4 @@
 - Install the VScode in your Mac, Windows, or Linux. 
 - Image below will be a window that you will see if you have installed the program properly on your device. 
 
-![Image](
+![Uploading Installing VScode.png…]()
