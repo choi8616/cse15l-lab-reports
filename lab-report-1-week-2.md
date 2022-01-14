@@ -3,7 +3,7 @@
 ## Yonghyeon Choi PID:A17010613
 
 **Part1 : Installing VScode**
-- First of all, go to Visual Studio Code website [VSCode](https://code.visualstudio.com/). Follow all the steps.
+- First of all, go to [Visual Studio Code Website](https://code.visualstudio.com/). Follow all the steps.
 - Install the VScode in your Mac, Windows, or Linux. 
 - Image below will be a window that you will see if you have installed the program properly on your device. 
 
@@ -12,7 +12,7 @@
 **Part2 : Remotely Connecting**
 - Collaborating with others when working on a same project can be done easily by setting your device capable to connect to a remote computer. 
 - We are going to connect to remote computer by using our CSE15L course-specific accounts. 
-- First, go to [Link](https://sdacs.ucsd.edu/~icc/index.php), where you can find your course account.
+- First, go to [UCSD ETS](https://sdacs.ucsd.edu/~icc/index.php), where you can find your course account.
 - Type in your name and PID, and change your password. Now, you know your own course-specific account and password to log in.
 - Open a new terminal in VScode, and type in "ssh (your account)". 
 - It will tell you that the authenticity of host can't be established and ask you if you still want to connect. Type in "yes".
