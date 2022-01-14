@@ -19,7 +19,7 @@
 - It will ask you to type in your password. It is normal that what you type in doesn't show up on your screen. 
 - If you have successfully logged in to a remote computer, you will see a screen like below.
 
-![Image](https://github.com/choi8616/cse15l-lab-reports/blob/14855a1b5bedbfab25ef17ee0d6103fbb4b04bad/Lab1%20-%202.png)
+![Image](Lab1 - 2.png)
 
 **Part3 : Trying Some Commands**
 - Now you have logged into the remote computer.
@@ -31,7 +31,7 @@
 - exit (this command lets you log out)
 - Image below is what you will likely see if you try some of these commands. 
 
-![Image](https://github.com/choi8616/cse15l-lab-reports/blob/14855a1b5bedbfab25ef17ee0d6103fbb4b04bad/Lab1%20-%203.png)
+![Image](Lab1 - 3.png)
 
 **Part4 : Moving Files with scp**
 - Moving various files bewteen local and remote computers is a critical benefit that working remotely has.
@@ -41,7 +41,7 @@
 - You can run that program on the remote computer now. It means anyone on the server can run the program.
 - Image below shows the demonstration.
 
-![Image](https://github.com/choi8616/cse15l-lab-reports/blob/14855a1b5bedbfab25ef17ee0d6103fbb4b04bad/Lab1%20-%204.png)
+![Image](Lab1 - 4.png)
 
 **Part5 : Setting an SSH Key**
 - It takes time for you to type in your password everytime you log in the remote computer.
@@ -51,7 +51,7 @@
 - It means that you can use commands like ssh and scp without entering your password also.
 - Image below shows how to set it up.
 
-![Image](https://github.com/choi8616/cse15l-lab-reports/blob/14855a1b5bedbfab25ef17ee0d6103fbb4b04bad/Lab1%20-%205.png)
+![Image](Lab1 - 5.png)
 
 **Part6 : Optimizing Remote Running**
 - There are lots of ways to optimize remote running.
@@ -59,4 +59,4 @@
 - Upside arrow brings the previous command line you typed in. 
 - Semicolons let you run multiple commands in one command line. Image below is a demonstration. 
 
-![Image](https://github.com/choi8616/cse15l-lab-reports/blob/14855a1b5bedbfab25ef17ee0d6103fbb4b04bad/Lab1%20-%206.png)
+![Image](Lab1 - 6.png)
