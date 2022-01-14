@@ -7,7 +7,7 @@
 - Install the VScode in your Mac, Windows, or Linux. 
 - Image below will be a window that you will see if you have installed the program properly on your device. 
 
-![Image](Lab1 - 1.png)
+![Image](https://github.com/choi8616/cse15l-lab-reports/blob/59759c8eae231ffcfda73fd2e6f6397e25b40b01/Lab1%20-%201.png)
 
 **Part2 : Remotely Connecting**
 - Collaborating with others when working on a same project can be done easily by setting your device capable to connect to a remote computer. 
