@@ -55,8 +55,8 @@
 
 **Part6 : Optimizing Remote Running**
 - There are lots of ways to optimize remote running.
-- For example, using command in quotes at the end of ssh command to immediately run it on the server.
+- For example, using command in quotes at the end of ssh command lets you immediately run it on the server.
 - Upside arrow brings the previous command line you typed in. 
-- Semicolons let you run multiple commands in one command line. Image below is a demonstration. 
+- Semicolons let you run multiple commands in a single command line. Image below is a demonstration. 
 
 ![Image](Lab1 - 6.png)
