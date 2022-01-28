@@ -12,7 +12,7 @@ Yonghyeon Choi / PID : A17010613
 ## Code Change 1 : File including image link
 
 > Code Change 
-![Image](lab-report-2/Bug1Fixed.png)
+![Image](Bug1Fixed.png)
 
 > Failure-Inducing Input File Link
 [Click](https://github.com/choi8616/markdown-parse/blob/main/test-file2.md)
