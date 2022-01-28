@@ -14,7 +14,7 @@
 - We are going to connect to remote computer by using our CSE15L course-specific accounts. 
 - First, go to [UCSD ETS](https://sdacs.ucsd.edu/~icc/index.php), where you can find your course account.
 - Type in your name and PID, and change your password. Now, you know your own course-specific account and password to log in.
-- Open a new terminal in VScode, and type in "ssh (your account)". 
+- Open a new terminal in VScode, and type in 'ssh (your account)'. 
 - It will tell you that the authenticity of host can't be established and ask you if you still want to connect. Type in "yes".
 - It will ask you to type in your password. It is normal that what you type in doesn't show up on your screen. 
 - If you have successfully logged in to a remote computer, you will see a screen like below.
