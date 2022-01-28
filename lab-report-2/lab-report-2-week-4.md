@@ -18,7 +18,7 @@ Yonghyeon Choi / PID : A17010613
 [Click](https://github.com/choi8616/markdown-parse/blob/main/test-file2.md)
 
 > Failure-Inducing Input Symptom
-![Image](lab-report-2/Bug1-ImageLink.png)
+![Image](Bug1-ImageLink.png)
 
 > Relationship Description
 
@@ -33,13 +33,13 @@ Yonghyeon Choi / PID : A17010613
 ## Code Change 2 : File Without Link
 
 > Code Change 
-![Image](lab-report-2/Bug2Fixed.png)
+![Image](Bug2Fixed.png)
 
 > Failure-Inducing Input File Link
 [Click](https://github.com/choi8616/markdown-parse/blob/main/test-file3.md)
 
 > Failure-Inducing Input Symptom
-![Image](lab-report-2/Bug2.png)
+![Image](Bug2.png)
 
 > Relationship Description
 
