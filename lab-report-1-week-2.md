@@ -59,4 +59,7 @@
 - *Upside arrow* brings the previous command line you typed in. 
 - *Semicolons* let you run multiple commands in a single command line. Image below is a demonstration. 
 
+- I went through the process of making a change in `WhereAmI.java`, moving file over `ssh` with `scp`, logging in with `ssh`, checking with `javac` and `java` commands, and finally exiting with `exit` command without any optimization. *121* keystrokes were involved during this process. 
+- Then, I went through the same process utilizing the up-arrow key. *17* keystrokes were involved this time. I tried using command in quotes at the end of `ssh` or semicolons, but using only up-arrow key was most efficient in decreasing the number of keystrokes.
+
 ![Image](Lab1 - 6.png)
