@@ -51,15 +51,15 @@ Yonghyeon Choi / PID : A17010613
 
 ## Code Change 3 : No Argument in Command
 
-> Code Change
+## Code Change
 ![Image](Bug3Fixed.png)
 
-> Failure-Inducing Input File Link
+## Failure-Inducing Input File Link
 [Click](https://github.com/choi8616/markdown-parse/commit/d8d99b9d784319afff7d321e0fa8bb8331f6cb6d#)
 
 
 
-> Failure-Inducing Input Symptom
+## Failure-Inducing Input Symptom
 ![Image](Bug3.png)
 
 
