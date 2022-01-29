@@ -43,7 +43,8 @@ Yonghyeon Choi / PID : A17010613
 
 > Relationship Description
 
-- `test-file3.md` didn't include any proper form of link. Therefore, we expected the output to be an empty list. However, as shown in the symptom image, the output   printed all the texts in the file. To be a valid link, all of the parenthese(open and close) and brackets(open and close) should be included. To fix this bug, we   added an another `if-statement` that doesn't let `getLinks` method to add a link, which doesn't have all of the four components to be a valid link, to the list.
+- `test-file3.md` didn't include any proper form of link. Therefore, we expected the output to be an empty list. However, as shown in the symptom image, the output   printed all the texts in the file. To be a valid link, all of the parentheses(open and close) and brackets(open and close) should be included. To fix this bug,     we added an another `if-statement` that doesn't let `getLinks` method to add a link, which doesn't have all of the four components to be a valid link, to the 
+  list.
   
 
 
@@ -64,4 +65,4 @@ Yonghyeon Choi / PID : A17010613
 
 > Relationship Description 
 
-- This time, there was no argument in the command line. More specifically, after `%java MarkdownParse`, no test file was referenced. We received an `ArrayIndexOutOfBoundsException` error message. This was caused because the main method was coded in a way presuming that there is always a command line in `args[0]`. To fix this, we added a new `if-statement` that checks if an argument is suggested by checking the length of `args`. 
+- This time, there was no argument in the command line. More specifically, after `%java MarkdownParse`, no test file was referenced. We received an           `ArrayIndexOutOfBoundsException` error message. This was caused because the main method was coded in a way presuming that there is always a command line in `args[0]`. To fix this, we added a new `if-statement` that checks if an argument is suggested by checking the length of `args`. 
