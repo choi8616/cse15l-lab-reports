@@ -57,7 +57,7 @@ Yonghyeon Choi / PID : A17010613
 
 ## Failure-Inducing Input File Link
 - [Click](https://github.com/choi8616/markdown-parse/commit/d8d99b9d784319afff7d321e0fa8bb8331f6cb6d#)
-- Third bug we encountered was error occuring when there is no command-line argument. In other words, there was no `md` file to read. Thus, there is no link to the 
+- Third bug we encountered was error occuring when there is no command-line argument. In other words, there was no `.md` file to read. Thus, there is no link to the 
   test file. Instead, I included the link to the code before fixing lines.
 
 ## Failure-Inducing Input Symptom
