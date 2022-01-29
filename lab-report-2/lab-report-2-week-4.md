@@ -56,13 +56,12 @@ Yonghyeon Choi / PID : A17010613
 
 ## Failure-Inducing Input File Link
 - [Click](https://github.com/choi8616/markdown-parse/commit/d8d99b9d784319afff7d321e0fa8bb8331f6cb6d#)
+- Third bug we encountered was error occuring when there is no command-line argument. In other words, there was no `md` file to read. Thus, there is no link to the 
+  test file. Instead, I included the link to the code before fixing lines.
 
 ## Failure-Inducing Input Symptom
 ![Image](Bug3.png)
 
+> Relationship Description 
 
-
-
-
-
-
+- This time, there was no argument in the command line. More specifically, after `%java MarkdownParse`, no test file was referenced. We received an `ArrayIndexOutOfBoundsException` error message. This was caused because the main method was coded in a way presuming that there is always a command line in `args[0]`. To fix this, we added a new `if-statement` that checks if an argument is suggested by checking the length of `args`. 
