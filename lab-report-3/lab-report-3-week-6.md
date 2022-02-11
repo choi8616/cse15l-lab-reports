@@ -29,7 +29,7 @@ My group decided to choose Option 1 - Streamline `ssh` Configuration
 > Description
 
 - Screenshot below demonstrates the usage of the alias 
-- Generally, we type in our course specific account name and host name to log in to the remote server (ex: `cs15lwi22aww@ieng6.ucsd.edu`)
+- Generally, we type in our course specific account name and host name to log in to the remote server (ex: `ssh cs15lwi22aww@ieng6.ucsd.edu`)
 - However, by using `config` file, we can easily log in by simply typing in `ssh ieng6`
 
 ![Image](sshCommand.png)
@@ -44,7 +44,7 @@ My group decided to choose Option 1 - Streamline `ssh` Configuration
 
 - Screenshot below demonstrates the usage of the alias to copy a file to my account using the alias
 - I created a example file `scpCopy.java` in my computer
-- Instead of typing in long commands, using the alias, I simply typed in `scp scpCopy.java ieng6:~/` to copy the file to the remote server
+- Instead of typing in long commands, I simply typed in `scp scpCopy.java ieng6:~/` to copy the file to the remote server
 - By logging into the server and using `ls`, it is proved that `scpCopy.java` file is successfully copied into my account in the server
 
 ![Image](scpCommand.png)
