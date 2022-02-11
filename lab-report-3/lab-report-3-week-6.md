@@ -1,5 +1,7 @@
 # Lab Report 3 - Week 6
 
+Yonghyeon Choi / PID: A17010613
+
 ## Streaming `ssh` Configuration
 My group decided to choose Option 1 - Streamline `ssh` Configuration 
 
