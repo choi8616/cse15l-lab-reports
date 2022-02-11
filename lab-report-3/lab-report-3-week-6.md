@@ -16,3 +16,4 @@ My group decided to choose option 1 - Streamline ssh Configuration
 - "User" refers to my course specific account name
 - Overall, this config file works as a tool that optimizes the process of typing in general commands to log into the server
 
+![Image](
