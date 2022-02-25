@@ -45,7 +45,8 @@ Test Method
 
 
 
-> Output for Snippet 1,2,3
+## Output for Snippet 1,2,3
+
 ![Image](myCodeResult.png)
 
 Explanation : Test for Snippet2 passed but test for Snippet1 and 3 failed and the JUnit outputs 
