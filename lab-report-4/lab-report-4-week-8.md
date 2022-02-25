@@ -83,3 +83,10 @@ all three methods in one image.
 Explanation : All three tests for `Snippet 1,2,3` failed this time, and the Junit outputs for them
 are shown in the image. 
 
+
+
+## Questions 
+
+- Do you think there is a small (<10 lines) code change that will make your program work for snippet 
+1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, 
+describe why it would be a more involved change.
