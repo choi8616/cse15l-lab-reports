@@ -52,3 +52,34 @@ Test Method
 Explanation : Test for Snippet2 passed but test for Snippet1 and 3 failed and the JUnit outputs 
 for them are shown in the image.
 
+
+
+
+
+## Implementation of other group that I reviewed 
+[link to other implementation](https://github.com/Stocktocon/markdown-parse.git)
+
+> Expected Outputs 
+
+Snippet1 : "`google.com", "google.com", "ucsd.edu"
+
+Snippet2 : "a.com", "a.com(())","example.com"
+
+Snippet3 : "https://twitter.com", "https://ucsd-cse15l-w22.github.io/","https://cse.ucsd.edu/"
+
+## Snippet 1,2,3 Test Methods
+
+![Image](snippetTestOther.png)
+
+Explanation : Since the test methods are the same for this case and my implementation, I included
+all three methods in one image. 
+
+
+
+## Output for Snippet 1,2,3 
+
+![Image](otherCodeResult.png)
+
+Explanation : All three tests for Snippet 1,2,3 failed this time, and the Junit outputs for them
+are shown in the image. 
+
