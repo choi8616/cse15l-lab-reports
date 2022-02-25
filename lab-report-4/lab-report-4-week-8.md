@@ -23,22 +23,21 @@ Snippet2 : "a.com", "a.com(())","example.com"
 Snippet3 : "https://twitter.com", "https://ucsd-cse15l-w22.github.io/","https://cse.ucsd.edu/"
 
 
-
-> Snippet1
+## Snippet 1
 
 Test Method
 ![Image](snippet1Test.png)
 
 
 
-> Snippet2
+## Snippet 2
 
 Test Method
 ![Image](snippet2Test.png)
 
 
 
-> Snippet3
+## Snippet 3
 
 Test Method
 ![Image](snippet3Test.png)
