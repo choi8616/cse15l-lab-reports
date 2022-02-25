@@ -17,7 +17,9 @@ implementations. In other words, I created total of 6 test methods.
 > Expected Outputs 
 
 Snippet1 : "`google.com", "google.com", "ucsd.edu"
+
 Snippet2 : "a.com", "a.com(())","example.com"
+
 Snippet3 : "https://twitter.com", "https://ucsd-cse15l-w22.github.io/","https://cse.ucsd.edu/"
 
 
