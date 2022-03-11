@@ -69,12 +69,13 @@ implementation.
 ![Image](labreport5-10.png)
 
 Looking at the codes, since it is generating an empty array, it means that one of the values among `nextOpenBracket`, 
-`nextCloseBracket`, `closeParen`, and `openParen` is -1, thus simply returning nothing. It is probably, between  `closeParen` or
+`nextCloseBracket`, `closeParen`, and `openParen` is -1, thus simply returning nothing. It is probably be `closeParen` or
 `openParen` since there are multiple numbers of parantheses in the file. Therefore, I took a deeper look at the part where it finds
 the positions of opening and closing parantheses.
 
 
 > Possible way to fix the bug
+
 In the method `findCloseParen` that is used to find the position of closing parantheses, it counts the numbers of opening parantheses.
 Therefore, the value `openParenCount` is positive even though closed parentheses is found, leading that value to be still postivie 
 even after `while loop`. Therefore, `return` value is -1, causing the `getLinks` method to simply return an empty array. Therefore, we
