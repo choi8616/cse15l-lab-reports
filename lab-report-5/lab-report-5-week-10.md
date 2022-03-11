@@ -48,7 +48,7 @@ multiple closing parantheses thus ignore the closing parantheses that appear aft
 To fix the bug, there should be a change between the lines intializing `openParen` and `closeParen` values. I would create an another 
 separate method that finds if there are more closing parantheses even after the initial one. I would use `int` values and `for loop` 
 to traverse through the texts to find the location of the last closing parantheses thus it can keep the critical closing parantheses. 
-Utilizing this method, I the code would probably be able to take multilples of closing parantheses into account. 
+Utilizing this method, I think the code would probably be able to take multilples of closing parantheses into account. 
 
 
 
