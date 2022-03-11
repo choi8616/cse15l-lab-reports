@@ -21,7 +21,7 @@ files - `result-choi.txt` and `results-joe.txt`.
 ![Image](labreport5-2.png)
 
 Then, I used `diff` command to get the outputs that were different between two sets of results. 
-![Image](lab-report5-3.png)
+![Image](labreport5-3.png)
 
 
 
