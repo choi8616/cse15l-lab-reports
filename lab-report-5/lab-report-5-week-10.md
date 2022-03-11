@@ -89,7 +89,7 @@ separately so that two methods together only search for necessary parantheses an
 
 ## Short Notes
 
-I really want to thank you all of the tutors that helped us during the lab hours so that we can have better insight in coding and 
+I really want to thank all of the tutors who helped us during the lab hours so that we can have better insight in coding and 
 debugging. It has been a pleasure to learn different materials in this course and I am sure that they will greatly help me throughout
 my coding career. 
 
