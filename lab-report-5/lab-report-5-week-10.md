@@ -38,7 +38,7 @@ output of `[\(foo\]` and other one gave `[\(foo\)]`. Since the correct output sh
 > Bug description
 ![Image](labreport5-8.png)
 
-In my implementation, he bug in the code that caused the wrong result was the part where it finds the closing parantheses followed by the 
+In my implementation, the bug in the code that caused the wrong result was the part where it finds the closing parantheses followed by the 
 opening parantheses. As shown in the image above, my code simply finds the first closing parantheses after the opening parantheses but not 
 the closing parantheses after the first one. Therefore, `[\(foo\]` is returned without any closing parantheses. It fails to recognize 
 multiple closing parantheses thus ignore the closing parantheses that appear after the first one. 
