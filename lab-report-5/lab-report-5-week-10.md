@@ -77,9 +77,9 @@ the positions of opening and closing parantheses.
 > Possible way to fix the bug
 
 In the method `findCloseParen` that is used to find the position of closing parantheses, it counts the numbers of opening parantheses.
-Therefore, the value `openParenCount` is positive even though closed parentheses is found, leading that value to be still postivie 
-even after `while loop`. Therefore, `return` value is -1, causing the `getLinks` method to simply return an empty array. Therefore, we
-would have to fix the `if-statement` in the while loop that also takes multiple numbers of open parantheses into account so that it
+Therefore, the value `openParenCount` is positive even though closed parentheses is found, leading that value to be still positive 
+even after the `while loop`. Therefore, `return` value is -1, causing the `getLinks` method to simply return an empty array. Therefore, we
+would have to fix the `if-statement` in the while loop that also takes multiple numbers of open parantheses into account, so that it
 doesn't affect searching for closing parantheses. Or, we can create a whole different method that also finds the open parantheses 
 separately so that two methods together only search for necessary parantheses and keep the critical parantheses included in the link.
 
