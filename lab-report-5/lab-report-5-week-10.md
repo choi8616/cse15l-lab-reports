@@ -3,7 +3,7 @@
 Yonghyeon Choi / PID : A17010613
 
 ## Two MarkdownParse Comparison 
-In this lab report, I tested 652 different commonmark-spec tests for two different `mark-down-parse` repository - my own implementation 
+In this lab report, I tested 652 different `commonmark-spec` tests for two different `mark-down-parse` repository - my own implementation 
 and implementation provided in lab 9. Then, using new commands learned during lab 9, I compared the outputs of those tests and found out 
 the files that generate different outputs for two `mark-down-parse`. I chose two from them and found out what part of the coding leads to 
 an incorrect output.
