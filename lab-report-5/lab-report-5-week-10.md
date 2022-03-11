@@ -69,7 +69,7 @@ implementation.
 ![Image](labreport5-10.png)
 
 Looking at the codes, since it is generating an empty array, it means that one of the values among `nextOpenBracket`, 
-`nextCloseBracket`, `closeParen`, and `openParen` is -1, thus simply returning nothing. It is probably be `closeParen` or
+`nextCloseBracket`, `closeParen`, and `openParen` is -1, thus simply returning nothing. It is probably `closeParen` or
 `openParen` since there are multiple numbers of parantheses in the file. Therefore, I took a deeper look at the part where it finds
 the positions of opening and closing parantheses.
 
